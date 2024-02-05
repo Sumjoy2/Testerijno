@@ -1,0 +1,15 @@
+RULES:
+
+First to 11, basic table tennis rules (game won by two points above opponent)
+
+Best of 3 games
+
+3 strikes for serves, point goes to other player if serve is not completed
+
+Hits the table = counts
+
+Serving alternates every two serves for each player
+
+Ball can be hit back anywhere on playing hand (not other hand)
+
+Net hits (if able to still go to other side) is still legal
